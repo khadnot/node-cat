@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/khadnot/node-cat/issues"
   },
-  "homepage": "https://github.com/khadnot/node-cat#readme"
+  "homepage": "https://github.com/khadnot/node-cat#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
