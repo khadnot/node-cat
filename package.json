@@ -1,0 +1,19 @@
+{
+  "name": "node-cat",
+  "version": "1.0.0",
+  "description": "program similar to UNIX utility, cat",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khadnot/node-cat.git"
+  },
+  "author": "Kenn Hadnot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khadnot/node-cat/issues"
+  },
+  "homepage": "https://github.com/khadnot/node-cat#readme"
+}
